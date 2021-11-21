@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @Herwork06
-- 👀 I’m interested in Coding Bots
-- 🌱 I’m currently learning node.js, python and HTML
+<<README.md>>
 
+```JavaScript
+const name = Herwork06
+const tags = [
+  'TS',
+  'PY'
+]
+const desc = `I like coding discord bots on TS or PY. But i have started coding HTML/CSS!`
+```
