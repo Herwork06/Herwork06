@@ -1,0 +1,12 @@
+/* styles.css */
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    color: azure;
+}
+
+body {
+    background-color: black;
+
+}
+/* Add styles here to customize the appearance of your app */
