@@ -1,9 +1,9 @@
 <<README.md>>
-[![TS]https://img.shields.io/static/v1?label=&message=TypeScript&color=blue&logo=typescript&logoColor=FFFFFF]
-[![JS]https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow&logo=javascript&logoColor=FFFFFF]
-[![PY]https://img.shields.io/static/v1?label=&message=Python&color=blue&logo=python&logoColor=FFFFFF]
-[![NodeJS]https://img.shields.io/static/v1?label=&message=NodeJS&color=blue&logo=nodejs&logoColor=FFFFFF]
-[![ReactJS]https://img.shields.io/static/v1?label=&message=ReactJS&color=blue&logo=reactjs&logoColor=FFFFFF]
+[![TS]https://img.shields.io/static/v1?label=&message=TypeScript&color=blue&logo=typescript&logoColor=FFFFFF](https://en.wikipedia.org/wiki/TypeScript)
+[![JS]https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow&logo=javascript&logoColor=FFFFFF](https://developer.mozilla.org/en-US/docs/Web/JavaScript/About_JavaScript)
+[![PY]https://img.shields.io/static/v1?label=&message=Python&color=blue&logo=python&logoColor=FFFFFF](https://www.python.org/doc/essays/blurb/)
+[![NodeJS]https://img.shields.io/static/v1?label=&message=NodeJS&color=blue&logo=nodejs&logoColor=FFFFFF](https://nodejs.org/en/about/)
+[![ReactJS]https://img.shields.io/static/v1?label=&message=ReactJS&color=blue&logo=reactjs&logoColor=FFFFFF](https://reactjs.org)
 ```JavaScript
 const name = Herwork06
 const tags = [
