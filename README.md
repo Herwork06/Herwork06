@@ -4,12 +4,17 @@
 [![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=lime&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/about/)
 [![ReactJS](https://img.shields.io/static/v1?label=&message=ReactJS&color=blue&logo=reacts&logoColor=FFFFFF)](https://reactjs.org)
 ```JavaScript
-const name = Herwork06
+const username = Herwork06
 const tags = [
   'TS',
-  'PY'
+  'PY',
+  'JS'
 ]
 const desc = `I am a developer from Norway`
+
+const log = `Username: ${username} \nTags: ${tags} \nDesc: ${desc}`
+
+console.log(log)
 ```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
