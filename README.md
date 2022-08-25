@@ -4,11 +4,15 @@
 [![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=lime&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/about/)
 [![ReactJS](https://img.shields.io/static/v1?label=&message=ReactJS&color=blue&logo=reacts&logoColor=FFFFFF)](https://reactjs.org)
 ```JavaScript
-const username = Herwork06
+const username = Herwork
 const tags = [
   'TS',
   'PY',
-  'JS'
+  'JS',
+  'HTML',
+  'CSS',
+  'Dart',
+  'Batch'
 ]
 const desc = `I am a developer from Norway`
 
