@@ -16,9 +16,6 @@ const tags = [
 ]
 const desc = `I am a developer from Norway`
 
-const log = `Username: ${username} \nTags: ${tags} \nDesc: ${desc}`
-
-console.log(log)
 ```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
