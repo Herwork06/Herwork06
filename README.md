@@ -12,7 +12,8 @@ const tags = [
   'HTML',
   'CSS',
   'Dart',
-  'Batch'
+  'Batch',
+  'C++'
 ]
 const desc = `I am a developer from Norway`
 
