@@ -22,6 +22,6 @@ console.log(log)
 ```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/herwork06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="herwork06" height="30" width="40" /></a>
+<a href="https://twitter.com/herwork_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="herwork06" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/herwork06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="herwork06" height="30" width="40" /></a>
 </p>
