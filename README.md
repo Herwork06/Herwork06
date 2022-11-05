@@ -4,7 +4,7 @@
 [![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=lime&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/about/)
 [![ReactJS](https://img.shields.io/static/v1?label=&message=ReactJS&color=blue&logo=reacts&logoColor=FFFFFF)](https://reactjs.org)
 ```JavaScript
-const username = Herwork
+const username = ["Herwork", "Herwork06", "Herwork_dev"]
 const tags = [
   'TS',
   'PY',
