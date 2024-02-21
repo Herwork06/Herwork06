@@ -1,25 +1,18 @@
-[![TS](https://img.shields.io/static/v1?label=&message=TypeScript&color=blue&logo=typescript&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/TypeScript)
-[![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/About_JavaScript)
-[![PY](https://img.shields.io/static/v1?label=&message=Python&color=blue&logo=python&logoColor=FFFFFF)](https://www.python.org/doc/essays/blurb/)
-[![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=lime&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/about/)
-[![ReactJS](https://img.shields.io/static/v1?label=&message=ReactJS&color=blue&logo=reacts&logoColor=FFFFFF)](https://reactjs.org)
-```JavaScript
-const username = ["Herwork", "Herwork06", "Herwork_dev"]
-const tags = [
-  'TS',
-  'PY',
-  'JS',
-  'HTML',
-  'CSS',
-  'Dart',
-  'Batch',
-  'C++'
-]
-const desc = `I am a developer from Norway`
+## Heyo! 
 
-```
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/herwork_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="herwork06" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/herwork06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="herwork06" height="30" width="40" /></a>
-</p>
+[![Github - Herwork06](https://img.shields.io/badge/Github-Herwork06-2ea44f?logo=Github)](https://github.com/Herwork06)
+
+
+![CBPL-BannerCustom](https://res.cloudinary.com/daily-now/image/upload/s--wihN90vS--/f_auto/v1708513473/ugc/content_8df8ddfa-0dc6-454d-862d-138a5273185b)
+
+
+I am Herwork 👋, also known as Herwork_dev or Herwork06. 
+
+I am an experienced developer who creates backends and frontend applications. Currently, I am working on an ongoing project called [Mist.TF](https://mist.tf)
+
+I am known in the TF2 community and am affiliated with 
+* KritzKast
+* FortressFaceoffs
+* PF2
+* TFconnect.
+ 
